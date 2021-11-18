@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YlQaE5b5KrlNaI3JdOD/jaHacYsIODY1q2hyx2yG9GMwiFmkoqIofSM+Of5f9OnbZZXqjGBTUYmeZCLPAUHUqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ismail\\OneDrive - Sheffield Hallam University\\Documents\\YEAR 2\\Jamie C#\\WEEK 2\\E Q5 DVLA CAR REG\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ismail\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Ismail\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Ismail\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Ismail\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
